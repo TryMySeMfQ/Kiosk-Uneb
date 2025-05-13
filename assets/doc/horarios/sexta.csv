@@ -1,0 +1,84 @@
+﻿disciplina;professor;curso;inicio;fim;sala
+Introd. à Engenharia de Software;Larissa Bastos;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 01
+Introd. à Engenharia de Software;Larissa Bastos;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 01
+Introd. à Engenharia de Software;Larissa Bastos;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 01
+Introd. à Engenharia de Software;Larissa Bastos;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 01
+Algoritmo e Lógica de Programação;Ricardo Peres;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 01
+Algoritmo e Lógica de Programação;Ricardo Peres;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 01
+Modelagem de Sist. e Análise de Requisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 04
+Modelagem de Sist. e Análise de Requisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 04
+Modelagem de Sist. e Análise de Requisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 04
+Modelagem de Sist. e Análise de Requisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 04
+Projeto de Pesquisa;Ricardo Peres;Sistema de Informação;09:10;10:00;SALA 11
+Projeto de Pesquisa;Ricardo Peres;Sistema de Informação;10:00;10:50;SALA 11
+Prática em Desenho Geométrico;Jefferson Correia;Matemática;07:30;08:20;Sala 05
+Prática em Desenho Geométrico;Jefferson Correia;Matemática;08:20;09:10;Sala 05
+T.S.F;Maria Anunciação;Matemática;09:10;10:00;Sala 05
+T.S.F;Maria Anunciação;Matemática;10:00;10:50;Sala 05
+Educação Especial;Maria Anunciação;Matemática;07:30;08:20;Sala 06
+Educação Especial;Maria Anunciação;Matemática;08:20;09:10;Sala 06
+Matemática III;Hercules Souza;Matemática;09:10;10:00;Sala 06
+Matemática III;Hercules Souza;Matemática;10:00;10:50;Sala 06
+Tendências em Educação Matemática;Joalisson Bahia;Matemática;10:50;11:40;Sala 06
+Tendências em Educação Matemática;Joalisson Bahia;Matemática;11:40;12:30;Sala 06
+Física I;Edielma Mendonça;Matemática;07:30;08:20;LAB. FIS
+Física I;Edielma Mendonça;Matemática;08:20;09:10;LAB. FIS
+Estágio III;Joalisson Bahia;Matemática;07:30;08:20;Sala 12
+Estágio III;Joalisson Bahia;Matemática;08:20;09:10;Sala 12
+Estágio III;Joalisson Bahia;Matemática;09:10;10:00;Sala 12
+Desenho Geo. II;Joalisson Bahia;Matemática;09:10;10:00;Sala 08
+Desenho Geo. II;Joalisson Bahia;Matemática;10:00;10:50;Sala 08
+Leitura e Produção de Textos;Edson Braz;Ciências Biológicas;07:30;08:20;Sala 07
+Leitura e Produção de Textos;Edson Braz;Ciências Biológicas;08:20;09:10;Sala 07
+História e Cultura Afro Brasileira e Indígena;Joesvandro Soares;Ciências Biológicas;09:10;10:00;Sala 07
+História e Cultura Afro Brasileira e Indígena;Joesvandro Soares;Ciências Biológicas;10:00;10:50;Sala 07
+História e Cultura Afro Brasileira e Indígena;Joesvandro Soares;Ciências Biológicas;10:50;11:40;Sala 07
+História e Cultura Afro Brasileira e Indígena;Joesvandro Soares;Ciências Biológicas;11:40;12:30;Sala 07
+Anatomia e Fisiologia Humana;José Eduardo;Ciências Biológicas;07:30;08:20;Lab. Anatomia
+Anatomia e Fisiologia Humana;José Eduardo;Ciências Biológicas;08:20;09:10;Lab. Anatomia
+Anatomia e Fisiologia Humana;José Eduardo;Ciências Biológicas;09:10;10:00;Lab. Anatomia
+Anatomia e Fisiologia Humana;José Eduardo;Ciências Biológicas;10:00;10:50;Lab. Anatomia
+Zoonoses Urbanas;José Eduardo;Ciências Biológicas;14:00;14:50;Lab. Anatomia
+Zoonoses Urbanas;José Eduardo;Ciências Biológicas;14:50;15:40;Lab. Anatomia
+Zoonoses Urbanas;José Eduardo;Ciências Biológicas;15:40;16:30;Lab. Anatomia
+Prática Pedagógica em Espaços não Escolares;Antonio Geraldo;Ciências Biológicas;07:30;08:20;Sala 13
+Prática Pedagógica em Espaços não Escolares;Antonio Geraldo;Ciências Biológicas;08:20;09:10;Sala 13
+Prática Pedagógica em Espaços não Escolares;Antonio Geraldo;Ciências Biológicas;09:10;10:00;Sala 13
+PPES II;Antonio Geraldo;Ciências Biológicas;10:00;10:50;Sala 13
+PPES II;Antonio Geraldo;Ciências Biológicas;10:50;11:40;Sala 13
+PPES II;Antonio Geraldo;Ciências Biológicas;11:40;12:30;Sala 13
+Fisiologia Animal Comparada;Edson Braz;Ciências Biológicas;09:10;10:00;Lab. 04
+Fisiologia Animal Comparada;Edson Braz;Ciências Biológicas;10:00;10:50;Lab. 04
+Cordados II;Edson Braz;Ciências Biológicas;10:50;11:40;Lab. 04
+Cordados II;Edson Braz;Ciências Biológicas;11:40;12:30;Lab. 04
+Leitura e Produção de Texto;Elaine Garrido;Engenharia Sanitária e Ambiental;18:30;19:20;Sala 5
+Leitura e Produção de Texto;Elaine Garrido;Engenharia Sanitária e Ambiental;19:20;20:10;Sala 5
+Leitura e Produção de Texto;Elaine Garrido;Engenharia Sanitária e Ambiental;20:10;21:00;Sala 5
+Química Geral;Fabiana Freitas;Engenharia Sanitária e Ambiental;18:30;19:20;sala 8
+Química Geral;Fabiana Freitas;Engenharia Sanitária e Ambiental;19:20;20:10;sala 8
+Química Geral;Fabiana Freitas;Engenharia Sanitária e Ambiental;20:10;21:00;sala 8
+Química Geral;Fabiana Freitas;Engenharia Sanitária e Ambiental;21:00;21:50;sala 8
+Estatística;Jessica Almeida;Engenharia Sanitária e Ambiental;18:30;19:20;SALA 07
+Estatística;Jessica Almeida;Engenharia Sanitária e Ambiental;19:20;20:10;SALA 07
+Estatística;Jessica Almeida;Engenharia Sanitária e Ambiental;20:10;21:00;SALA 07
+Estatística;Jessica Almeida;Engenharia Sanitária e Ambiental;21:00;21:50;SALA 07
+Estatística;Jessica Almeida;Engenharia Sanitária e Ambiental;21:50;22:40;SALA 07
+Educação Ambiental;Cristiane Crispim;Engenharia Sanitária e Ambiental;18:30;19:20;SALA 11
+Educação Ambiental;Cristiane Crispim;Engenharia Sanitária e Ambiental;19:20;20:10;SALA 11
+Educação Ambiental;Cristiane Crispim;Engenharia Sanitária e Ambiental;20:10;21:00;SALA 11
+Educação Ambiental;Cristiane Crispim;Engenharia Sanitária e Ambiental;21:00;21:50;SALA 11
+Hidráulica I;Fabrício Ribeiro;Engenharia Sanitária e Ambiental;18:30;19:20;SALA 06
+Hidráulica I;Fabrício Ribeiro;Engenharia Sanitária e Ambiental;19:20;20:10;SALA 06
+Hidráulica I;Fabrício Ribeiro;Engenharia Sanitária e Ambiental;20:10;21:00;SALA 06
+Hidráulica I;Fabrício Ribeiro;Engenharia Sanitária e Ambiental;21:00;21:50;SALA 06
+Hidráulica I;Fabrício Ribeiro;Engenharia Sanitária e Ambiental;21:50;22:40;SALA 06
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;13:00;14:20;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;14:20;15:10;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;15:10;16:00;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;16:00;16:50;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;16:50;17:00;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;13:00;14:20;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;14:20;15:10;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;15:10;16:00;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;16:00;16:50;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;16:50;17:00;SALA 9

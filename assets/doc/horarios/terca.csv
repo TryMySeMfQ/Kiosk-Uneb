@@ -1,0 +1,128 @@
+﻿disciplina;professor;curso;inicio;fim;sala
+Introd. à Comp. Sistemas e Softwares;Fabricio Faro;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 01
+Introd. à Comp. Sistemas e Softwares;Fabricio Faro;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 01
+Ética Acessibilidade e Inclusão;Roberto Monteiro;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 01
+Ética Acessibilidade e Inclusão;Roberto Monteiro;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 01
+Ética Acessibilidade e Inclusão;Roberto Monteiro;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 01
+Ética Acessibilidade e Inclusão;Roberto Monteiro;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 01
+Cálculo II;João Luciano;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 04
+Cálculo II;João Luciano;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 04
+Cálculo II;João Luciano;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 04
+Cálculo II;João Luciano;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 04
+Introd. à Banco de Dados;José Roberto;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 04
+Introd. à Banco de Dados;José Roberto;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 04
+Introd. à Banco de Dados;José Roberto;ENGENHARIA DE SOFTWARE;13:30;14:20;SALA 04
+Introd. à Banco de Dados;José Roberto;ENGENHARIA DE SOFTWARE;14:20;15:10;SALA 04
+Desenvolvimento WEB I;Marcos Figueredo;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 08
+Desenvolvimento WEB I;Marcos Figueredo;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 08
+Desenvolvimento WEB I;Marcos Figueredo;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 08
+Desenvolvimento WEB I;Marcos Figueredo;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 08
+Desenvolvimento WEB I;Marcos Figueredo;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 08
+Desenvolvimento WEB I;Marcos Figueredo;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 08
+Sistemas Multimídia;Marcondes Dourado ;Sistema de Informação;07:30;08:20;SALA 11
+Sistemas Multimídia;Marcondes Dourado ;Sistema de Informação;08:20;09:10;SALA 11
+Sistemas Multimídia;Marcondes Dourado ;Sistema de Informação;09:10;10:00;SALA 11
+Sistemas Multimídia;Marcondes Dourado;Sistema de Informação;10:00;10:50;SALA 11
+Planej. Estratégico em TI;Marcondes Dourado ;Sistema de Informação;10:50;11:40;SALA 11
+Planej. Estratégico em TI;Marcondes Dourado ;Sistema de Informação;11:40;12:30;SALA 11
+Psicologia;Paulo Henrique;Matemática;07:30;08:20;Sala 05
+Psicologia;Paulo Henrique;Matemática;08:20;09:10;Sala 05
+Matemática I;Maria de Fátima;Matemática;09:10;10:00;Sala 05
+Matemática I;Maria de Fátima;Matemática;10:00;10:50;Sala 05
+Lógica;Eron Souza;Matemática;10:50;11:40;Sala 05
+Lógica;Eron Souza;Matemática;11:40;12:30;Sala 05
+Cálculo I;Grace Dórea;Matemática;07:30;08:20;Sala 06
+Cálculo I;Grace Dórea;Matemática;08:20;09:10;Sala 06
+Geometria Espacial;Maridete Cunha;Matemática;09:10;10:00;Sala 06
+Geometria Espacial;Maridete Cunha;Matemática;10:00;10:50;Sala 06
+Prática em Geometria Plana;Maridete Cunha;Matemática;10:50;11:40;Sala 06
+Prática em Geometria Plana;Maridete Cunha;Matemática;11:40;12:30;Sala 06
+Estrutura Algébrica II;Maridete Cunha;Matemática;07:30;08:20;Sala 10
+Estrutura Algébrica II;Maridete Cunha;Matemática;08:20;09:10;Sala 10
+Cálculo III;Eron Souza;Matemática;09:10;10:00;Sala 10
+Álgebra Linear II;Maria Eliana;Matemática;10:00;10:50;Sala 10
+Álgebra Linear II;Maria Eliana;Matemática;10:50;11:40;Sala 10
+Prática em Teoria dos Números e Álgebra;Grace Dórea/Maria Eliana;Matemática;11:40;12:30;Sala 10
+TCC I;Danton de Oliveira;Matemática;07:30;08:20;Sala 12
+TCC I;Danton de Oliveira;Matemática;08:20;09:10;Sala 12
+TCC I;Danton de Oliveira;Matemática;09:10;10:00;Sala 12
+Física III;Paulo Henrique;Matemática;10:00;10:50;LAB. FIS
+Prática em EJA;Gustavo Perreira;Matemática;10:50;11:40;Sala 12
+Prática em EJA;Gustavo Perreira;Matemática;11:40;12:30;Sala 12
+Análise Real II;Roque Luis;Matemática;13:20;14:10;LAB. FIS
+Análise Real II;Roque Luis;Matemática;14:10;15:00;LAB. FIS
+Geosferas;Marcia Lima;Ciências Biológicas;09:10;10:00;Sala 07
+Geosferas;Marcia Lima;Ciências Biológicas;10:00;10:50;Sala 07
+Geosferas;Marcia Lima;Ciências Biológicas;10:50;11:40;Sala 07
+Geosferas;Marcia Lima;Ciências Biológicas;11:40;12:30;Sala 07
+Biologia Evolutiva;Emanuel Brasiliano ;Ciências Biológicas;07:30;08:20;Lab. Anatomia
+Biologia Evolutiva;Emanuel Brasiliano ;Ciências Biológicas;08:20;09:10;Lab. Anatomia
+Biologia Evolutiva;Emanuel Brasiliano ;Ciências Biológicas;09:10;10:00;Lab. Anatomia
+Biologia Evolutiva;Emanuel Brasiliano ;Ciências Biológicas;10:00;10:50;Lab. Anatomia
+Biotecnologia;Emanuel Brasiliano ;Ciências Biológicas;10:00;10:50;Lab. Anatomia
+Biotecnologia;Emanuel Brasiliano ;Ciências Biológicas;10:50;11:40;Lab. Anatomia
+Biotecnologia;Emanuel Brasiliano ;Ciências Biológicas;11:40;12:30;Lab. Anatomia
+Educação Inclusiva;Magnolia Silva;Ciências Biológicas;07:30;08:20;Lab. 02
+Educação Inclusiva;Magnolia Silva;Ciências Biológicas;08:20;09:10;Lab. 02
+Educação Inclusiva;Magnolia Silva;Ciências Biológicas;09:10;10:00;Lab. 02
+Educação Inclusiva;Magnolia Silva;Ciências Biológicas;10:00;10:50;Lab. 02
+Educação Inclusiva;Magnolia Silva;Ciências Biológicas;10:50;11:40;Lab. 02
+Educação Inclusiva;Magnolia Silva;Ciências Biológicas;11:40;12:30;Lab. 02
+TCC;Cláudia da Silva;Ciências Biológicas;10:00;10:50;Lab. 02
+TCC;Cláudia da Silva;Ciências Biológicas;10:50;11:40;Lab. 02
+TCC;Cláudia da Silva;Ciências Biológicas;11:40;12:30;Lab. 02
+Monografia;Cláudia da Silva;Ciências Biológicas;14:50;15:40;Lab. 02
+Monografia;Cláudia da Silva;Ciências Biológicas;15:40;16:30;Lab. 02
+Monografia;Cláudia da Silva;Ciências Biológicas;16:30;17:20;Lab. 02
+Monografia;Cláudia da Silva;Ciências Biológicas;17:20;18:10;Lab. 02
+Palinologia;Luciene Cristina;Ciências Biológicas;10:00;10:50;Lab. Química
+Palinologia;Luciene Cristina;Ciências Biológicas;10:50;11:40;Lab. Química
+Palinologia;Luciene Cristina;Ciências Biológicas;11:40;12:30;Lab. Química
+Prática Pedagógica em Espaços não Escolares;Antonio Geraldo;Ciências Biológicas;07:30;08:20;Sala 13
+Prática Pedagógica em Espaços não Escolares;Antonio Geraldo;Ciências Biológicas;08:20;09:10;Sala 13
+Prática Pedagógica em Espaços não Escolares;Antonio Geraldo;Ciências Biológicas;09:10;10:00;Sala 13
+PPES II;Antonio Geraldo;Ciências Biológicas;10:00;10:50;Sala 13
+PPES II;Antonio Geraldo;Ciências Biológicas;10:50;11:40;Sala 13
+PPES II;Antonio Geraldo;Ciências Biológicas;11:40;12:30;Sala 13
+Projeto de Pesquisa II;Alexa de Araújo;Ciências Biológicas;07:30;08:20;Lab. 03
+Biologia Celular e Molecular;Gracineide Selma;Ciências Biológicas;08:20;09:10;Lab. 03
+Biologia Celular e Molecular;Gracineide Selma;Ciências Biológicas;09:10;10:00;Lab. 03
+Biologia Celular e Molecular;Gracineide Selma;Ciências Biológicas;10:00;10:50;Lab. 03
+Biologia Celular e Molecular;Gracineide Selma;Ciências Biológicas;10:50;11:40;Lab. 03
+Biologia Celular e Molecular;Gracineide Selma;Ciências Biológicas;11:40;12:30;Lab. 03
+Invertebrados III;Elamara Conceição;Ciências Biológicas;09:10;10:00;Lab. 04
+Invertebrados III;Elamara Conceição;Ciências Biológicas;10:00;10:50;Lab. 04
+Invertebrados III;Elamara Conceição;Ciências Biológicas;10:50;11:40;Lab. 04
+Invertebrados III;Elamara Conceição;Ciências Biológicas;11:40;12:30;Lab. 04
+Cálculo I;Jaibis Freitas;Engenharia Sanitária e Ambiental;18:30;19:20;Sala 5
+Cálculo I;Jaibis Freitas;Engenharia Sanitária e Ambiental;19:20;20:10;Sala 5
+Cálculo I;Jaibis Freitas;Engenharia Sanitária e Ambiental;20:10;21:00;Sala 5
+Cálculo I;Jaibis Freitas;Engenharia Sanitária e Ambiental;21:00;21:50;Sala 5
+Cálculo I;Jaibis Freitas;Engenharia Sanitária e Ambiental;21:50;22:40;Sala 5
+Metodologia da Pesquisa Científica;Luísa Magalhães;Engenharia Sanitária e Ambiental;18:30;19:20;Sala 11
+Metodologia da Pesquisa Científica;Luísa Magalhães;Engenharia Sanitária e Ambiental;19:20;20:10;Sala 11
+Metodologia da Pesquisa Científica;Luísa Magalhães;Engenharia Sanitária e Ambiental;20:10;21:00;Sala 11
+Análise Ambiental;Alarcon Oliveira;Engenharia Sanitária e Ambiental;18:30;19:20;LAB I - BIO
+Análise Ambiental;Alarcon Oliveira;Engenharia Sanitária e Ambiental;19:20;20:10;LAB I - BIO
+Análise Ambiental;Alarcon Oliveira;Engenharia Sanitária e Ambiental;20:10;21:00;LAB I - BIO
+Análise Ambiental;Alarcon Oliveira;Engenharia Sanitária e Ambiental;21:00;21:50;LAB I - BIO
+Análise Ambiental;Alarcon Oliveira;Engenharia Sanitária e Ambiental;21:50;22:40;LAB I - BIO
+Análise Ambiental;Alarcon Oliveira;Engenharia Sanitária e Ambiental;18:30;19:20;LAB I - BIO
+Análise Ambiental;Alarcon Oliveira;Engenharia Sanitária e Ambiental;19:20;20:10;LAB I - BIO
+Análise Ambiental;Alarcon Oliveira;Engenharia Sanitária e Ambiental;20:10;21:00;LAB I - BIO
+Análise Ambiental;Alarcon Oliveira;Engenharia Sanitária e Ambiental;21:00;21:50;LAB I - BIO
+Orientação de TCC;Genilson Cunha;Engenharia Sanitária e Ambiental;18:30;19:20;LAB INF.
+Orientação de TCC;Genilson Cunha;Engenharia Sanitária e Ambiental;19:20;20:10;LAB INF.
+Orientação de TCC;Genilson Cunha;Engenharia Sanitária e Ambiental;20:10;21:00;LAB INF.
+Orientação de TCC;Genilson Cunha;Engenharia Sanitária e Ambiental;21:00;21:50;LAB INF.
+Orientação de TCC;Genilson Cunha;Engenharia Sanitária e Ambiental;21:50;22:40;LAB INF.
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;13:00;14:20;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;14:20;15:10;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;15:10;16:00;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;16:00;16:50;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;16:50;17:00;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;13:00;14:20;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;14:20;15:10;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;15:10;16:00;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;16:00;16:50;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;16:50;17:00;SALA 9

@@ -1,0 +1,97 @@
+﻿disciplina;professor;curso;inicio;fim;sala
+Introd. à Comp. Sistemas e Softwares;Fabricio Faro;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 01
+Introd. à Comp. Sistemas e Softwares;Fabricio Faro;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 02
+Leitura e Produção de Textos;Erivelton Santana;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 01
+Leitura e Produção de Textos;Erivelton Santana;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 01
+"Introd à Engenharia de
+Software";Roberto Monteiro;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 04
+"Introd à Engenharia de
+Software";Roberto Monteiro;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 04
+"Introd à Engenharia de
+Software";Roberto Monteiro;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 04
+"Introd à Engenharia de
+Software";Roberto Monteiro;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 04
+"Introd à Engenharia de
+Software";Roberto Monteiro;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 08
+"Introd à Engenharia de
+Software";Roberto Monteiro;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 08
+"Introd à Engenharia de
+Software";Roberto Monteiro;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 08
+"Introd à Engenharia de
+Software";Roberto Monteiro;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 08
+AplicaçõesOrientada aObjetos ;Roberto Monteiro;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 08
+AplicaçõesOrientada aObjetos ;Roberto Monteiro;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 08
+AplicaçõesOrientada aObjetos ;Roberto Monteiro;ENGENHARIA DE SOFTWARE;13:30;14:20;SALA 08
+AplicaçõesOrientada aObjetos ;Roberto Monteiro;ENGENHARIA DE SOFTWARE;14:20;15:10;SALA 08
+Psicologia;Paulo Henrique;Matemática;07:30;08:20;Sala 05
+Psicologia;Paulo Henrique;Matemática;08:20;09:10;Sala 05
+LPT I;Erivelton Santana;Matemática;09:10;10:00;Sala 05
+LPT I;Erivelton Santana;Matemática;10:00;10:50;Sala 05
+Lógica;Eronildo;Matemática;10:50;11:40;Sala 05
+Lógica;Eronildo;Matemática;11:40;12:30;Sala 05
+Geometria Espacial;Maridete Cunha;Matemática;07:30;08:20;Sala 06
+Geometria Espacial;Maridete Cunha;Matemática;08:20;09:10;Sala 06
+Prática em Geometria Plana;Maridete Cunha;Matemática;09:10;10:00;Sala 06
+Prática em Geometria Plana;Maridete Cunha;Matemática;10:00;10:50;Sala 06
+Tendências em Educação Matemática;Joalisson Bahia;Matemática;10:50;11:40;Sala 06
+Tendências em Educação Matemática;Joalisson Bahia;Matemática;11:40;12:30;Sala 06
+Cálculo III;Eron Souza;Matemática;07:30;08:20;Sala 10
+Cálculo III;Eron Souza;Matemática;08:20;09:10;Sala 10
+Cálculo III;Eron Souza;Matemática;09:10;10:00;Sala 10
+Cálculo III;Eron Souza;Matemática;10:00;10:50;Sala 10
+Estrutura Algébrica II;Maridete Cunha;Matemática;10:50;11:40;Sala 10
+Estrutura Algébrica II;Maridete Cunha;Matemática;11:40;12:30;Sala 10
+Física III;Paulo Henrique;Matemática;10:00;10:50;LAB. FIS
+Física III;Paulo Henrique;Matemática;10:50;11:40;LAB. FIS
+Física III;Paulo Henrique;Matemática;11:40;12:30;LAB. FIS
+Fundamentos de Química;Gustavo Perreira;Ciências Biológicas;07:30;08:20;Sala 07
+Fundamentos de Química;Gustavo Perreira;Ciências Biológicas;08:20;09:10;Sala 07
+Fundamentos de Química;Gustavo Perreira;Ciências Biológicas;09:10;10:00;Sala 07
+Epistemologia da Ciência;Luis Figueroa;Ciências Biológicas;10:00;10:50;Sala 07
+Epistemologia da Ciência;Luis Figueroa;Ciências Biológicas;10:50;11:40;Sala 07
+Epistemologia da Ciência;Luis Figueroa;Ciências Biológicas;11:40;12:30;Sala 07
+Estágio Supervisionado em Ciências;Magnolia Silva;Ciências Biológicas;07:30;08:20;Lab. 02
+Estágio Supervisionado em Ciências;Magnolia Silva;Ciências Biológicas;08:20;09:10;Lab. 02
+Estágio Supervisionado em Ciências;Magnolia Silva;Ciências Biológicas;09:10;10:00;Lab. 02
+Estágio Supervisionado em Ciências;Magnolia Silva;Ciências Biológicas;10:00;10:50;Lab. 02
+Estágio Supervisionado em Ciências;Magnolia Silva;Ciências Biológicas;10:50;11:40;Lab. 02
+Estágio Supervisionado em Ciências;Magnolia Silva;Ciências Biológicas;11:40;12:30;Lab. 02
+Estágio Supervisionado em Ciências;Magnolia Silva;Ciências Biológicas;14:00;14:50;Lab. 02
+Estágio Supervisionado em Ciências;Magnolia Silva;Ciências Biológicas;14:50;15:40;Lab. 02
+Oficina Interdisciplinar I;Luis Figueira;Ciências Biológicas;07:30;08:20;Lab. Química
+Oficina Interdisciplinar I;Luis Figueira;Ciências Biológicas;08:20;09:10;Lab. Química
+Psicologia da Educação;Anaci Carneiro;Ciências Biológicas;09:10;10:00;Sala 13
+Psicologia da Educação;Anaci Carneiro;Ciências Biológicas;10:00;10:50;Sala 13
+Psicologia da Educação;Anaci Carneiro;Ciências Biológicas;10:50;11:40;Sala 13
+Psicologia da Educação;Anaci Carneiro;Ciências Biológicas;11:40;12:30;Sala 13
+Geometria Analítica;Jaibis Freitas;Engenharia Sanitária e Ambiental;18:30;19:20;Sala 5
+Geometria Analítica;Jaibis Freitas;Engenharia Sanitária e Ambiental;19:20;20:10;Sala 5
+Geometria Analítica;Jaibis Freitas;Engenharia Sanitária e Ambiental;20:10;21:00;Sala 5
+Geometria Analítica;Jaibis Freitas;Engenharia Sanitária e Ambiental;21:00;21:50;Sala 5
+Cartografia e Geoprocessamento;Alarcon Oliveira;Engenharia Sanitária e Ambiental;18:30;19:20;SALA 11
+Cartografia e Geoprocessamento;Alarcon Oliveira;Engenharia Sanitária e Ambiental;19:20;20:10;SALA 11
+Cartografia e Geoprocessamento;Alarcon Oliveira;Engenharia Sanitária e Ambiental;20:10;21:00;SALA 11
+Cartografia e Geoprocessamento;Alarcon Oliveira;Engenharia Sanitária e Ambiental;21:00;21:50;SALA 11
+Química Geral;Fabiana da Silva;Engenharia Sanitária e Ambiental;18:30;19:20;SALA 06
+Química Geral;Fabiana da Silva;Engenharia Sanitária e Ambiental;19:20;20:10;SALA 06
+Química Geral;Fabiana da Silva;Engenharia Sanitária e Ambiental;20:10;21:00;SALA 06
+Química Geral;Fabiana da Silva;Engenharia Sanitária e Ambiental;21:00;21:50;SALA 06
+Química Geral;Fabiana da Silva;Engenharia Sanitária e Ambiental;18:30;19:20;SALA 06
+Química Geral;Fabiana da Silva;Engenharia Sanitária e Ambiental;19:20;20:10;SALA 06
+Química Geral;Fabiana da Silva;Engenharia Sanitária e Ambiental;20:10;21:00;SALA 06
+Química Geral;Fabiana da Silva;Engenharia Sanitária e Ambiental;21:00;21:50;SALA 06
+Controle e Recuperação de Áreas Degradadas;Janiara Alves;Engenharia Sanitária e Ambiental;18:30;19:20;LAB II - BIO
+Controle e Recuperação de Áreas Degradadas;Janiara Alves;Engenharia Sanitária e Ambiental;19:20;20:10;LAB II - BIO
+Controle e Recuperação de Áreas Degradadas;Janiara Alves;Engenharia Sanitária e Ambiental;20:10;21:00;LAB II - BIO
+Controle e Recuperação de Áreas Degradadas;Janiara Alves;Engenharia Sanitária e Ambiental;21:00;21:50;LAB II - BIO
+Controle e Recuperação de Áreas Degradadas;Janiara Alves;Engenharia Sanitária e Ambiental;21:50;22:40;LAB II - BIO
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;13:00;14:20;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;14:20;15:10;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;15:10;16:00;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;16:00;16:50;SALA 9
+Introdução a Biossistemas;Yusdel Diaz/ Emanuel Brasilino/ Marcos Vanderlei;PPGMSB;16:50;17:00;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;13:00;14:20;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;14:20;15:10;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;15:10;16:00;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;16:00;16:50;SALA 9
+Métodos Computacionais Aplicados;Alexandre Nascimento/ José Gileá de Souza / Larissa Bastos;PPGMSB;16:50;17:00;SALA 9
