@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Booststrap css -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+
+  <body onload="startAutoRefresh()">
+    <!--Classe com notícias gerais-->
+    <div class="news-container">   
+        <p id="tipoInformacao">DEPARTAMENTO DE CIÊNCIAS EXATAS E DA TERRA II</p>
+    </div>
+    <!--fim Classe com notícias gerais-->
+
+    <!--QUADRO DE HORÁRIOS-->
+    <div id="horarios" class="container-horario">
+      <div class="scroll-table">
+        <table id="schedule-table">
+          <thead>
+            <tr>
+              <td>disciplina</td>
+              <td>professor</td>
+              <td>curso</td>
+              <td>inicio</td>
+              <td>fim</td>
+              <td>sala</td>
+            </tr>
+          </thead>
+          <tbody id="table-horario">
+            <!-- Os dados do CSV serão inseridos aqui -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <!--FIM QUADRO DE HORÁRIOS-->
+
+    <!--QUADRO AVISOS-->
+    <div id="quadroAvisos">
+  
+    </div>
+    <!--FIM QUADRO DE AVISOS-->
+    
+    
+
+    <footer class="info-footer">
+      <div class="info-weather">
+        <img id="weather-icon" alt="Ícone do clima" />
+        <div class="info-temp">
+          <div id="weather-temp"></div>
+          <div id="weather-city"></div>
+        </div>
+        <div class="info-geral">
+          <div><img class="wheterLogo" src="/assets/image/humidy.png" /></div>
+          <div id="weather-humidity"></div>
+          <div><img class="wheterLogo" src="/assets/image/wind.png" /></div>
+          <div id="weather-wind"></div>
+        </div>
+      </div>
+
+      <div class="info-time">
+        <div class="hora" id="time"></div>
+        <div class="data" id="date"></div>
+      </div>
+    </footer>
+
+    <!-- Script JS -->
+     <!--Pega e apresenta data e hora-->
+    <script src="assets/js/dataHora.js"></script>
+    <!--Pega e apresenta dados do tempo-->
+    <script src="assets/js/weather.js"></script>
+    <!--Pega e apresenta os horários a partir da tabela-->
+    <script src="assets/js/classTime.js"></script>
+    <!---->
+
+    
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="assets/js/refresh.js"></script>
+  </body>
+</html>
