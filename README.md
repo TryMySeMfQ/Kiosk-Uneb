@@ -1,23 +1,37 @@
-## 🖥️ Painel de Horários e Avisos - DCET II
+# 🖥️ Painel de Horários e Avisos - DCET II
 
+![Status](https://img.shields.io/badge/Status-In_Development-green?style=for-the-badge&logo=git&logoColor=white&labelColor=464646&color=2EA043)
+![Versão](https://img.shields.io/badge/Versão-1.0-blue)
+
+## 📋 Descrição
 Projeto desenvolvido para a exibição dinâmica de horários de aulas, notícias institucionais e avisos no contexto universitário, promovendo maior integração entre a comunidade acadêmica e as informações institucionais.
 
-## 📌 Funcionalidades Principais
+## ✨ Funcionalidades
+- 🕒 **Horários em tempo real**: Exibição das aulas do dia, com filtragem por turno (manhã, tarde, noite).
+- 📰 **Quadro de notícias**: Rotação automática de imagens institucionais a cada 30 segundos.
+- 📹 **Vídeo introdutório**: Reprodução automática com opção de ativar o áudio.
+- 🌐 **Modo offline**: Tela especial informando perda de conexão.
+- 📌 **Atualização automática**: Ciclo contínuo entre horários e quadro de notícias.
 
-- **Horários em tempo real**: Exibição das aulas do dia, com filtragem por turno (manhã, tarde, noite).
-- **Quadro de notícias**: Rotação automática de imagens institucionais a cada 30 segundos.
-- **Vídeo introdutório**: Reprodução automática com opção de ativar o áudio.
-- **Modo offline**: Tela especial informando perda de conexão.
-- **Atualização automática**: Ciclo contínuo entre horários e quadro de notícias.
+## 🛠️ Stack Tecnológico
+| Componente | Tecnologia |
+|------------|------------|
+| Frontend | HTML5, CSS3, JavaScript ES6+ |
+| Bibliotecas | Papa Parse 5.3, Bootstrap 5.2 |
+| Hardware | Raspberry Pi 4 Model B |
+| Sistema | Raspberry Pi OS Lite |
 
 ## ⚙️ Configuração e Instalação
 
 ### ✅ Pré-requisitos
-
 - Servidor web (Apache, Nginx ou similar)
 - Navegador moderno (Chrome, Firefox, Edge)
 - Raspberry Pi (utilizado no modo quiosque com Bash Script)
-
+  
+```bash
+# Para deploy em Raspberry Pi
+sudo apt update && sudo apt install -y chromium-browser unclutter
+```
 ### 📁 Estrutura de Arquivos
 
 ```
