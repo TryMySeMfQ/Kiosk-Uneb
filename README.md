@@ -108,9 +108,17 @@ O sistema foi configurado para rodar automaticamente em uma televisão utilizand
 
 ## 👩‍💻 Sobre o Projeto de Extensão
 
-Como **Bolsista de Extensão**, participei de projetos voltados para a integração entre universidade e comunidade, com foco no desenvolvimento de ações educativas e tecnológicas que impactaram positivamente a sociedade. Durante a bolsa, atuei na organização e execução de eventos, oficinas e palestras, além de colaborar com a elaboração de materiais educativos e soluções práticas para problemas enfrentados pela comunidade.
+Durante minha atuação como bolsista de extensão, participei de projetos voltados à integração entre universidade e comunidade, aplicando soluções tecnológicas em contextos educativos. Este painel de horários e avisos é um exemplo prático desse trabalho, conectando a experiência acadêmica à comunicação institucional de forma eficiente.
 
-A experiência fortaleceu minhas habilidades em **trabalho em equipe**, **gestão de projetos** e **comunicação**.
+### Atividades realizadas:
+- Organização de eventos, oficinas e palestras.
+- Desenvolvimento de materiais educativos digitais.
+- Criação de soluções práticas para problemas enfrentados pela comunidade.
+
+### Habilidades desenvolvidas:
+- Trabalho em equipe
+- Gestão de projetos
+- Comunicação e apresentação de soluções tecnológicas
 
 ## 📄 Licença
 
